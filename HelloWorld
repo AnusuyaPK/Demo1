@@ -1,4 +1,4 @@
 #include <stdio.h>
 void main() {
-printf("Change by Anusuya from desktop!!");
+printf("Change by Sudha Murthy from desktop!!");
 }
